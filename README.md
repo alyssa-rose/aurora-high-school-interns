@@ -1,7 +1,7 @@
 # Aaron and Alyssa's Machine Learning Crash Course
 
 ## Introduction
-Hey y'all! This is a repository (basically a place to keep code and track changes to that code). Feel free to poke around on Gitlab to get familiar. An alternative is also Github, which you might've heard of. They are both places to house code. 
+Hey y'all! This is a repository (basically a place to keep code and track changes to that code). Feel free to poke around on Github to get familiar.
 
 This repository is meant to give a small introduction to Python, coding best practices, and machine learning. For the first section, I have included a Python file (a .py file) which you can run and play with. For the other sections, it is up to you to learn how to create a new Python file, and then code in it. If you have any questions, be sure to message the group chat. However, I encourage you to:
 1. Try to solve the problem on your own first by experimentation and Googling

@@ -31,7 +31,7 @@ This is meant to give you an introduction to what pseudocoding is, and how to wr
 
 To run the code, you can download the repository by selecting the download icon:
 
-![download_icon](/pictures_for_readme/downloading_repository.PNG)
+![download_icon](/pictures_for_readme/download_repo.PNG)
 
 
 

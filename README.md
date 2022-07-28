@@ -25,7 +25,7 @@ This will come with Python built in already, so you don't have to worry about do
 
 ### Pseudo Code
 
-The file can be found here: https://gitlab-ee.aurora.aero/Rose.Alyssa/high-school-interns/-/blob/main/pseudo_code_example.py
+The file can be found here: https://github.com/alyssa-rose/aurora-high-school-interns/blob/main/pseudo_code_example.py
 
 This is meant to give you an introduction to what pseudocoding is, and how to write comments in Python. Additionally, there is a small bit of Python code, which you should get familiar with and try to understand what's going on and how to do it yourself! Feel free to play around with the variables to see how stuff changes.
 
